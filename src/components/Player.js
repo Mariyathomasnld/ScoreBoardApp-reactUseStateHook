@@ -5,6 +5,7 @@ export default function Player(props) {
 
 <li className ="player">
 {props.name}
+{props.score}
 </li>
   )
 }
