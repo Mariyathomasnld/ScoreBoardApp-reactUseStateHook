@@ -1,5 +1,5 @@
 
-import './App.css';
+import './App.scss';
 import ScoreBoard from './components/ScoreBoard';
 import Title from './components/Title';
 

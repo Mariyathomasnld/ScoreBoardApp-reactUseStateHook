@@ -1,0 +1,16 @@
+@import "../style/config";
+
+.formfield {
+  width: 360px;
+  background: #fff;
+  color: rgb(0, 0, 0);
+  font: inherit;
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.1);
+  border: 0;
+  outline: 0;
+  height: 1rem;
+  margin-top: 1rem;
+}
+button {
+  margin-top: 1rem;
+}

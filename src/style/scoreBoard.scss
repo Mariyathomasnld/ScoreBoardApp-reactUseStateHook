@@ -1,0 +1,47 @@
+// src/components/Scoreboard.scss
+.Scoreboard {
+    position: relative;
+    ul {
+      padding: 0;
+    }
+
+    Reset{ display: inline;
+
+    }
+  
+    button {
+        
+        display: inline;
+        border: none;
+        background: #006d80;
+        font-family: inherit;
+        font-size: initial;
+        cursor: pointer;
+        margin-left: 0.5em;
+    
+        transition: all 0.2s ease;
+    
+        
+        color: white;
+    
+        &:hover {
+          background: #f20f0f;
+        }}
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+  
